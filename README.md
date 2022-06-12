@@ -5,17 +5,16 @@
 
 This project help me to get the best practices in the use of Pandas DATA cleaning
 I was evaluated on the following three points:
-- Manage errors and inconsistencies in stored data
-- Be careful with the data join
-- Perform univariate analysis to interpret data
+- Perform a bivariate analysis to interpret data
+- Perform a statistical test
+- Analyze time series
 
 
 > ## What I learned
 
-- Merge my data correctly
-- Outliers Detection
-- Data cleaning
+- Make & choose statistical test ording on the type of variable.
+- Aggragate function to manage time series.
 
 > ## Areas of improvement
 
-Always make a PowerPoint to present my work, a Notebook isn't enough !
+Test the normality of the data
